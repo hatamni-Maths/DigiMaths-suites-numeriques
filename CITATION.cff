@@ -10,7 +10,7 @@ authors:
 version: "1.0.0"
 date-released: "2025-01-01"
 license: "CC-BY-NC-ND-4.0"
-repository-code: "https://github.com/VOTRE-USERNAME-GITHUB/digimaths-suites-numeriques"
+repository-code: "https://github.com/hatamni-Maths/digimaths-suites-numeriques"
 abstract: >
   Deuxième guide de la série pédagogique DigiMaths, consacré aux suites numériques
   au lycée selon la démarche Concret -> GeoGebra -> Algébrique. Huit modules couvrent
