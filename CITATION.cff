@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+type: generic
+message: "Si vous utilisez ce guide, merci de citer la référence ci-dessous."
+title: "Concret & GeoGebra : pour une bonne assimilation des suites numériques — guide à l'usage des enseignants"
+authors:
+  - family-names: "Atamni"
+    given-names: "El Houssin"
+    orcid: "https://orcid.org/0009-0008-7550-9086"
+    affiliation: "Club DigiMaths, Lycée Mohammed VI, Imouzzer Kandar — Direction Provinciale de Sefrou, Académie Régionale Fès-Meknès, Maroc"
+version: "1.0.0"
+date-released: "2025-01-01"
+license: "CC-BY-NC-ND-4.0"
+repository-code: "https://github.com/VOTRE-USERNAME-GITHUB/digimaths-suites-numeriques"
+abstract: >
+  Deuxième guide de la série pédagogique DigiMaths, consacré aux suites numériques
+  au lycée selon la démarche Concret -> GeoGebra -> Algébrique. Huit modules couvrent
+  la notion de suite, les suites arithmétiques et géométriques, la convergence, la
+  monotonie et la bornitude, le théorème de convergence monotone, les diagrammes
+  d'itération en toile d'araignée, et un projet complet de modélisation, avec
+  scripts GeoGebra et usage raisonné de l'intelligence artificielle.
+keywords:
+  - mathématiques
+  - didactique
+  - GeoGebra
+  - suites numériques
+  - intelligence artificielle
+  - enseignement secondaire
+  - Maroc
