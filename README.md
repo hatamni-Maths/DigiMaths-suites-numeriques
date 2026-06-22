@@ -3,8 +3,7 @@
 **Série DigiMaths n°2** — Guide à l'usage des enseignants
 Dr. El Houssin Atamni
 
-![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
-[![DOI](https://img.shields.io/badge/DOI-%C3%A0_venir-orange.svg)](#citation)
+![License: CC BY-NC-ND 4.0][![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20793253.svg)](https://doi.org/10.5281/zenodo.20793253)
 
 ## Présentation
 
