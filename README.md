@@ -41,9 +41,9 @@ Le Club DigiMaths a été fondé en 2025 au sein du Lycée Mohammed VI d'Imouzze
 
 ## Guides associés de la collection DigiMaths
 
-- N°1 — [Étude des fonctions entre concret et numérique](https://github.com/VOTRE-USERNAME-GITHUB/digimaths-etude-fonctions)
+- N°1 — [Étude des fonctions entre concret et numérique](https://github.com/hatamni-Maths/digimaths-etude-fonctions)
 - **N°2 — Concret & GeoGebra : suites numériques** *(ce dépôt)*
-- N°3 — [L'IA au service des enseignants de mathématiques](https://github.com/VOTRE-USERNAME-GITHUB/digimaths-ia-enseignants)
+- N°3 — [L'IA au service des enseignants de mathématiques](https://github.com/hatamni-Maths/digimaths-ia-enseignants)
 
 ## Auteur
 
