@@ -57,7 +57,7 @@ Si vous utilisez ce guide, merci de le citer :
 ```
 Atamni, E. (2025). Concret & GeoGebra : pour une bonne assimilation des suites
 numériques — guide à l'usage des enseignants. Série DigiMaths n°2, Club DigiMaths,
-Lycée Mohammed VI, Imouzzer Kandar, Maroc. [DOI à compléter après dépôt Zenodo]
+Lycée Mohammed VI, Imouzzer Kandar, Maroc. https://doi.org/10.5281/zenodo.20793253
 ```
 
 Voir aussi le fichier [`CITATION.cff`](./CITATION.cff).
